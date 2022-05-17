@@ -1,5 +1,7 @@
 # create-svelte
 
+lorem yazıp taba basınca uzun oluyor. ALT + SHIFT + F’e basarsan onu toplar.
+
 Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
 
 ## Creating a project
